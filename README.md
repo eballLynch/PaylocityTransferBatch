@@ -21,7 +21,7 @@ This script will:
 * Display the final destination and backup paths.
 
 # Configuration
-The following variables need to be adjusted in the script to match your environment
+The following variables, path, and file name need to be adjusted in the script to match your environment. Current path and file name is for testing purposes.
   * `sourceFile`
   * `destFolder`
   * `backupFolder`
